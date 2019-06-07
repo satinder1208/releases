@@ -8,7 +8,6 @@ fi
 
 cd $script_dir
 git fetch --all
-git reset --hard origin/master
 
 echo "Fetch complete"
 

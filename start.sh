@@ -6,5 +6,4 @@ then
 script_dir="$current_dir"
 fi
 cd $script_dir
-cd ..
 node server.js

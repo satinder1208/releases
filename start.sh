@@ -6,4 +6,4 @@ then
 script_dir="$current_dir"
 fi
 cd $script_dir
-node server.js
+npm start

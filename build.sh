@@ -10,7 +10,7 @@ cd $script_dir
 git fetch --all
 git reset --hard origin/master
 
-cp -Rf ../builds ./builds
+cp -Rf ../builds .
 
 echo "Fetch complete"
 

@@ -14,4 +14,4 @@ cp -Rf ../builds ./builds
 
 echo "Fetch complete"
 
-npm start
+pm2 start.sh

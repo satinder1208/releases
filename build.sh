@@ -14,4 +14,4 @@ cp -Rf ../builds ./builds
 
 echo "Fetch complete"
 
-pm2 npm start
+npm start
